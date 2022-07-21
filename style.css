@@ -49,7 +49,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: lightblue;
+    background-color: rgba(173, 216, 230, 0.3);
     text-transform: uppercase;
     text-align: center;
     padding: 2rem;
@@ -103,6 +103,7 @@ h1 {
 .letter {
     display: flex;
     align-items: center;
+    background: pink;
     justify-content: center;
     border: 1px solid rgba(0, 0, 0, 0.733);
     border-radius: 0.8rem;
